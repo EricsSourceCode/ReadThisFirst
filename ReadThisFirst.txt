@@ -1,7 +1,15 @@
-The main project here is AINews.  It has 
-things for AI, like in the CsNeural reposotory,
-and it is being used to experiment with
-news articles and AI.
+The main project here is AI News.  It has
+things for AI in general, like in the
+CsNeural repository, and it is being used
+to experiment with news articles and AI.
+
+The project file, AINews.csproj, in the
+AINews repo, shows what files are used in
+the project, and where they are.  For example
+in the ItemGroup that shows:
+Compile Include="\Eric\Main\CsNeural\NeuralNet.cs"
+it shows the path to that file used in the
+project.
 
 Some repositories have their own
 ReadThisFirst.txt file that is specific to
@@ -13,3 +21,18 @@ Deep Learning (The MIT Press Essential
 Knowledge series)
 by John D. Kelleher
 
+Also, this is a good tutorial:
+neuralnetworksanddeeplearning.com/chap1.html
+
+Matrix notation:
+w for weight
+w<sup>L<sub>jk
+The weight for the connection
+from the kth neuron in the (L - 1)th
+layer to the jth neuron in the Lth
+layer.
+
+a for activation
+a<sup>L<sub>j
+Activation for the jth neuron in
+the Lth layer.
