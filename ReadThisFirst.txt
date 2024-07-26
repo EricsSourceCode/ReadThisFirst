@@ -1,0 +1,15 @@
+The main project here is AINews.  It has 
+things for AI, like in the CsNeural reposotory,
+and it is being used to experiment with
+news articles and AI.
+
+Some repositories have their own
+ReadThisFirst.txt file that is specific to
+the source code in that repository.
+
+A book that has some very good explanations of
+Neural Networks and backpropagation is:
+Deep Learning (The MIT Press Essential
+Knowledge series)
+by John D. Kelleher
+
